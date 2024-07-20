@@ -1,3 +1,3 @@
-Hi, my name is Kirill!
+Hi! My name is Kirill.
 
-Glad you are here.
+Glad you are here!
